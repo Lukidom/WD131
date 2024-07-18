@@ -23,7 +23,7 @@
     grid-template-rows: 1fr;
   }
   .card-front #card-number
-  .label #card_holder {
+  .label {
     grid-column: 1/2;
   }
   .label #card-holder {
